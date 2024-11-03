@@ -117,3 +117,16 @@
       - Choose a disease from the dropdown menu.
       - Enter the required input values or upload an image for analysis.
 
+## Models and Data
+**Pre-trained Models**: Stored in the Models directory.
+**Testing Data**: Sample data for each disease is provided in the TestingData directory.
+
+## Future Enhancements
+User Authentication: To allow users to save their prediction history.
+Real-time Data Updates: Integrate with health databases for up-to-date predictions.
+Multi-language Support: Make the app accessible to non-English speakers.
+Mobile Optimization: Enhance the UI/UX for mobile users.
+
+
+## Contributing
+This project is intended for **submission purposes only**. Permissions for updates, modifications, or usage of the code are **prohibited** until **June 2025**. If you have questions or require assistance regarding the project, please contact the project owner directly.
